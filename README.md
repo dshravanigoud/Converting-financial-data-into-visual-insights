@@ -27,6 +27,9 @@ It focuses on one of the most critical skills in financial analysis — translat
 | **Conversion Rate** | Visitor-to-customer conversion tracking |
 | **New Customers** | Acquisition performance vs benchmark |
 
+### Dashboard 1 — KPI Growth Dashboard
+![Dashboard 1](images/dashboard_1.png)
+
 ### Key Skills Demonstrated
 - Actual vs Target variance visualization
 - Bullet chart / gauge-style KPI indicators
@@ -48,6 +51,9 @@ It focuses on one of the most critical skills in financial analysis — translat
 | **P&L Summary 2018** | Revenue, COGS, expenses, and net operating profit |
 | **Balance Sheet Summary** | Current/non-current assets, liabilities, shareholders' equity |
 | **5-Year Performance Summary** | Average, actual vs plan, variance analysis |
+
+### Dashboard 2 — Business Unit Revenue & Financial Performance
+![Dashboard 2](images/dashboard_2.png)
 
 ### Key Skills Demonstrated
 - Multi-series revenue trend charts
@@ -79,25 +85,15 @@ It focuses on one of the most critical skills in financial analysis — translat
 | Total Expenses | ($207,705) |
 | **Net Earnings** | **$74,181** |
 
+### Dashboard 3 — Cash Flow, Waterfall & Productivity
+![Dashboard 3](images/dashboard_3.png)
+
 ### Key Skills Demonstrated
 - Waterfall chart construction in Excel
 - Cash flow trend visualization
 - Multi-period cash balance charting
 - Productivity gauge/donut chart design
 - Stacked bar and combo chart techniques
-
----
-
-## 📸 Model Screenshots
-
-### Dashboard 1 — KPI Growth Dashboard
-![Dashboard 1](images/dashboard_1.png)
-
-### Dashboard 2 — Business Unit Revenue & Financial Performance
-![Dashboard 2](images/dashboard_2.png)
-
-### Dashboard 3 — Cash Flow, Waterfall & Productivity
-![Dashboard 3](images/dashboard_3.png)
 
 ---
 
